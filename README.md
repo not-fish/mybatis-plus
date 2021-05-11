@@ -11,4 +11,4 @@
    8、批量删除（MybatisPlus自带）
    9、查询（注解方式自定义sql）
    10、分页查询
-   11、自定义mapper.xml使用分页查询
+   11、自定义mapper.xml使用分页查询 
