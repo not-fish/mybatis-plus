@@ -1,0 +1,14 @@
+测试：
+   test.java.com.peko.mbp.Test01.java
+测试点：
+   1、查询所有（MybatisPlus自带）
+   2、条件查询（MybatisPlus自带）
+   3、模糊查询（MybatisPlus自带）
+   4、保存（MybatisPlus自带）
+   5、修改（MybatisPlus自带）
+   6、批量修改（MybatisPlus自带）
+   7、删除（MybatisPlus自带）
+   8、批量删除（MybatisPlus自带）
+   9、查询（注解方式自定义sql）
+   10、分页查询
+   11、自定义mapper.xml使用分页查询
